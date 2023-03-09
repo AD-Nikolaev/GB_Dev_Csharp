@@ -1,0 +1,15 @@
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\bin\Debug\net6.0\Home Work.exe
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\bin\Debug\net6.0\Home Work.deps.json
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\bin\Debug\net6.0\Home Work.runtimeconfig.json
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\bin\Debug\net6.0\Home Work.dll
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\bin\Debug\net6.0\Home Work.pdb
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.csproj.AssemblyReference.cache
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.AssemblyInfoInputs.cache
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.AssemblyInfo.cs
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.csproj.CoreCompileInputs.cache
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.dll
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\refint\Home Work.dll
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.pdb
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\Home Work.genruntimeconfig.cache
+D:\GeekBrains\python\Works\developer\c#\Seminar_03\Home Work\obj\Debug\net6.0\ref\Home Work.dll
