@@ -34,6 +34,21 @@ double RaiseAToPowB(int[] numbers)
     return Math.Pow(numbers[0], numbers[1]);
 }
 
+int GetSumDigits(int n)
+{
+    int result = 0;
+
+    while (n > 0)
+    {
+        result += n % 10;
+        n /= 10;
+    }
+
+    return result;
+}
+
+
+
 // <--------------------------------------------------------------------------------------------------------------->
 
 /*
@@ -42,3 +57,14 @@ int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 Console.WriteLine($"Число {numbers[0]} в степени {numbers[1]} = {RaiseAToPowB(numbers)}");
 */
 
+/*
+Console.Write("Введите число: ");
+int n = int.Parse(Console.ReadLine());
+Console.WriteLine($"Сумма цифр числа {n} = {GetSumDigits(n)}");
+*/
+
+/*
+int[] array = GetRandomArray(8, -10, 10);
+Console.Write("Сгенирированный массив: ");
+PrintArray(array);
+*/
